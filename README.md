@@ -878,13 +878,12 @@ style.css
             margin-right:auto;
 
         }
-        ```
-
+```
 ## OUTPUT:
-![output](output1.png)
-![output](output2.png)
-![output](output3.png)
-![output](output4.png)
+![(./output1.png)
+![output](./output2.png)
+![output](./output3.png)
+![output](./output4.png)
 
 ## HTML VALIDATOR:
 ![htmlvalidator](validator.png)
